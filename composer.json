@@ -1,0 +1,15 @@
+{
+    "name": "r2d2/html",
+    "autoload": {
+        "psr-4": {
+            "R2d2\\Html\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lorodin",
+            "email": "iliy.kulichenko@gmail.com"
+        }
+    ],
+    "require": {}
+}
